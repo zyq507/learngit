@@ -3,3 +3,4 @@ Git is free software under the GPL
 Git has a mutable inxex called stage
 Git tracks changes
 Git tracks changes of files
+Creating a branch is quick
